@@ -1,7 +1,7 @@
 const NftPreviewCard = () => {
   return (
     <article className="card-width rounded-card bg-Blue-900 p-6 flex flex-wrap justify-center items-center gap-6">
-      <div className="group relative w-[302px] h-[302px] rounded-lg bg-[url(image-equilibrium.jpg)] bg-cover">
+      <div className="group relative w-[302px] h-[302px] rounded-lg bg-[url(/public/image-equilibrium.jpg)] bg-cover">
         <div className="absolute w-[302px] h-[302px] rounded-lg  group-hover:bg-Cyan-400/50 group-hover:cursor-pointer">
           <img
             src="icon-view.svg"

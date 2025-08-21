@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io solution URL](https://your-solution-url.com)
-- Live Site URL: [Vercel live site URL](https://fsdev-social-links-profile.vercel.app/)
+- Solution URL: [Frontendmentor.io solution URL](https://fsdev-nft-preview-card-component.vercel.app/)
+- Live Site URL: [Vercel live site URL](https://fsdev-nft-preview-card-component.vercel.app/)
 
 ## My process
 
